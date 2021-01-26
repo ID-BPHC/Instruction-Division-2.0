@@ -142,6 +142,14 @@ var portals = [
     active: false,
     mode: "AUGSD",
     admin: true
+  },
+  {
+    displayName: "Analtyics",
+    name: "analytics",
+    icon: "show_chart",
+    active: false,
+    mode: "AUGSD",
+    admin: true,
   }
 ];
 
