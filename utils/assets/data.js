@@ -195,7 +195,7 @@ var superUsers = [
     department: "Timetable Division",
     departmentCode: "ID",
     maxProjects: 2
-  }
+  },
 ];
 
 module.exports = {
